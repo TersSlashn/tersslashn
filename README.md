@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Ters Slash n 👋 
 
-<!--
-**TersSlashn/tersslashn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Indie Game Developer** working with **Godot Engine** & **C#**.  
+🚀 Documenting my game development journey step-by-step!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Engine:** Godot 4.7
+- **Language:** C#
+- **IDE:** VS Code
+- **Art & Assets:** ready-made assets
+
+---
+
+### 🚀 Current Project
+- 🕹️ **Working on:** EchoLight
+- 📝 **Devlog Status:** Active development & mechanics design.
+- 📱 **Follow the journey:** [Instagram Profile](https://instagram.com/ters_slash_n)
+
+---
+
+### 📬 Connect with Me
+- 📷 Instagram: [@ters_slash_n](https://instagram.com/ters_slash_n)
