@@ -9,8 +9,7 @@
 - **Engine:** Godot 4.7
 - **Language:** C#
 - **IDE:** VS Code
-- **Art & Assets:** ready-made assets
-
+- **Assets & Art:** Store & Open-Source Assets (Itch.io / Kenney / Unity Store)
 ---
 
 ### 🚀 Current Project
