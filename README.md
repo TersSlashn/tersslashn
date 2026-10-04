@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Current Project
-- 🕹️ **Working on:** EchoLight
+- 🕹️ **Working on:** Echo Of Light
 - 📝 **Devlog Status:** Active development & mechanics design.
 - 📱 **Follow the journey:** [Instagram Profile](https://instagram.com/ters_slash_n)
 
